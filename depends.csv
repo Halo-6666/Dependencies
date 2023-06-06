@@ -1,0 +1,13 @@
+component,depends_on
+apple,cherry,date,fig
+banana,cherry,fig,grape,honeydew
+cherry,date
+date,fig,grape,honeydew
+elderberry,grape,honeydew,kiwi,lime
+fig
+grape,honeydew,kiwi,lime
+honeydew,kiwi,lime,mango
+kiwi,lime,mango
+lime,mango,nectarine,strawberry
+mango
+nectarine,strawberry
